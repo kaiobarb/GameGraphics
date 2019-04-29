@@ -54,15 +54,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\RotateLight.cs" />
-     <Compile Include="Assets\Week4_LabMaterials\PingPong_CellularAutomata.cs" />
      <None Include="Assets\Texture\Texture.shader" />
      <None Include="Assets\SunAndMoon\Shamat\Sway.shader" />
      <None Include="Assets\Toon\WorldToon.shader" />
-     <None Include="Assets\Week4_LabMaterials\OutputTexture.shader" />
-     <None Include="Assets\Week4_LabMaterials\RenderToTexture_CA.shader" />
-     <None Include="Assets\Week4_LabMaterials\Phong Texture\PhongTexture.shader" />
+     <None Include="Assets\Phong Texture\PhongTexture.shader" />
      <None Include="Assets\VertexRotation.shader" />
-     <None Include="Assets\chekerboard\Checkerboard.shader" />
      <None Include="Assets\SunAndMoon\Shamat\NewImageEffectShader.shader" />
      <None Include="Assets\Twist.shader" />
      <None Include="Assets\Toon\Toon2.shader" />
